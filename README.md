@@ -1,8 +1,15 @@
 # 👋 Hello, I'm Kausshik Manojkumar!
 ## A little bit about me
-I am a software developer passionate about all things in the field of technology. I love collaborating with other people who would love to make projects which, inturn, make a quantifiable change to tomorrow's society.
+I am a software developer passionate about all things in the field of technology. I love collaborating with other people who would love to make projects which, in turn, make a quantifiable change to tomorrow's society.
 
-- 👀 I’m interested in all things tech
+# 👀 What I am working on
+I am trying to diversify my knowledge in some fields, they include:
+## Machine Learning
+- Currently completing Andrew Ng's Machine Learning Specialization (hosted by Stanford University Online & DeepLearning.ai)
+- Trying to strengthen ML Fundamentals by taking appropriate coursework and building side projects such as the [Brain Tumor Classifier](https://github.com/KAUSSHIK/BrainTumorClassification)
+- Expanding my knowledge on Federated Learning and trying to create a dashboard that helps users federate their ML models.
+
+
 - 🌱 I’m currently learning the ways of life
 - 💞️ I’m looking to collaborate on anything that helps me develop
 - 📫 How to reach me : email : kausshikmanojkumar@gmail.com
