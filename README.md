@@ -9,12 +9,19 @@ I am trying to diversify my knowledge in some fields, they include:
 - Trying to strengthen ML Fundamentals by taking appropriate coursework and building side projects such as the [Brain Tumor Classifier](https://github.com/KAUSSHIK/BrainTumorClassification)
 - Expanding my knowledge on Federated Learning and trying to create a dashboard that helps users federate their ML models.
 - Trying to learn MLOps through trial and error by deploying the Federated Learning Dashboard project.
+- Currently trying to understand what Generative AI is.
 
 ## Web Development
 - Currently focusing on the Backend Development side of Web Development by using JavaScript.
 - Have worked on the Backend of Android Applications in the past, like [SwipeHire](https://github.com/KAUSSHIK/coms309)
 - Trying to also experiment by deploying such projects on AWS, GCP, etc.
 - Looking to start using OpenAI's APIs in my projects to improve their functionality.
+
+# 👬 Let's Collaborate
+If you are working on something new and you think I would find that exciting (I am most certain it will) feel free to reach out to me via my [LinkedIn](https://linkedin.com/in/kausshikm/) or email me at [kausshikmanojkumar@gmail.com](mailto:kausshikmanojkumar@gmail.com).
+
+# 📊 GitHub Stats
+
 
 <!---
 KAUSSHIK/KAUSSHIK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
