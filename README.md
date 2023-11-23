@@ -11,10 +11,10 @@ I am trying to diversify my knowledge in some fields, they include:
 - Trying to learn MLOps through trial and error by deploying the Federated Learning Dashboard project.
 
 ## Web Development
-- Currently focusing on Backend Development side of Web Development by using JavaScript.
-- Have worked on Backed of Android Applications in the past like [SwipeHire](https://github.com/KAUSSHIK/coms309)
+- Currently focusing on the Backend Development side of Web Development by using JavaScript.
+- Have worked on the Backend of Android Applications in the past, like [SwipeHire](https://github.com/KAUSSHIK/coms309)
 - Trying to also experiment by deploying such projects on AWS, GCP, etc.
-- Looking to start using OpenAI's APIs to my projects
+- Looking to start using OpenAI's APIs in my projects to improve their functionality.
 
 <!---
 KAUSSHIK/KAUSSHIK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
