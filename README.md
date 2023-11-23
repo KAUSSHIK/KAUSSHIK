@@ -21,8 +21,7 @@ I am trying to diversify my knowledge in some fields, they include:
 If you are working on something new and you think I would find that exciting (I am most certain it will) feel free to reach out to me via my [LinkedIn](https://linkedin.com/in/kausshikm/) or email me at [kausshikmanojkumar@gmail.com](mailto:kausshikmanojkumar@gmail.com).
 
 # 📊 GitHub Stats
-
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KAUSSHIK&layout=donut)](https://github.com/KAUSSHIK/github-readme-stats)
 <!---
 KAUSSHIK/KAUSSHIK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
