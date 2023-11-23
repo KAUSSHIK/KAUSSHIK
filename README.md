@@ -22,6 +22,8 @@ If you are working on something new and you think I would find that exciting (I 
 
 # 📊 GitHub Stats
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KAUSSHIK&layout=donut)](https://github.com/KAUSSHIK/github-readme-stats)
+
+[![Kausshik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KAUSSHIK&theme=tokyo-night&bg_color=FFFFFF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!---
 KAUSSHIK/KAUSSHIK is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
