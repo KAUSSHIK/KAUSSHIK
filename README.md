@@ -28,6 +28,8 @@ If you are working on something new and you think I would find that exciting (I 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=KAUSSHIK&theme=dark)](https://git.io/streak-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats-kappa-olive.vercel.app?user=KAUSSHIK&theme=dark)](https://git.io/streak-stats)
+
 # 🪛 My Skills
 ## Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
