@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Kausshik Manojkumar!
 ## A little bit about me
-I am a software developer passionate about all things in the field of technology. I love collaborating with other people who would love to make projects which, in turn, make a quantifiable change to tomorrow's society.
+I am a software developer passionate about all things in the field of technology. I love collaborating with other people who would love to make projects that, in turn, make a quantifiable change to tomorrow's society.
 
-# 👀 What I am working on
+# 👀 [What I am working on](https://github.com/KAUSSHIK?tab=repositories)
 I am trying to diversify my knowledge in some fields, they include:
 ## Machine Learning
 - Currently completing Andrew Ng's Machine Learning Specialization (hosted by Stanford University Online & DeepLearning.ai)
