@@ -26,7 +26,7 @@ If you are working on something new and you think I would find that exciting (I 
 
 [![Kausshik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KAUSSHIK&theme=xcode)](https://github.com/KAUSSHIK)
 
-[![GitHub Streak](https://github-readme-streak-stats-kappa-olive.vercel.app?user=KAUSSHIK&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=KAUSSHIK&theme=dark)](https://git.io/streak-stats)
 
 # 🪛 My Skills
 ## Languages
