@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Kausshik Manojkumar!
+# 👋 Hello, I'm [Kausshik Manojkumar](https://www.kausshik.dev)!
 ## A little bit about me
 I am a software developer passionate about all things in the field of technology. I love collaborating with other people who would love to make projects that, in turn, make a quantifiable change to tomorrow's society.
 
