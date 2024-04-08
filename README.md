@@ -10,6 +10,7 @@ I am trying to diversify my knowledge in some fields, they include:
 - Expanding my knowledge on Federated Learning and trying to create a dashboard that helps users federate their ML models.
 - Trying to learn MLOps through trial and error by deploying the Federated Learning Dashboard project.
 - Currently trying to understand what Generative AI is.
+- You can take a look at more of my projects on my portfolio which can be found at [kausshik.dev](https://www.kausshik.dev)
 
 ## Web Development
 - Currently focusing on the Backend Development side of Web Development by using JavaScript.
