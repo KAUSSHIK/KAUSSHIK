@@ -23,8 +23,6 @@ If you are working on something new and you think I would find that exciting (I 
 
 
 # 📊 GitHub Stats
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KAUSSHIK&layout=donut&theme=dark)](https://github.com/KAUSSHIK/github-readme-stats)
-
 [![Kausshik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=KAUSSHIK&theme=xcode)](https://github.com/KAUSSHIK)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=KAUSSHIK&theme=dark)](https://git.io/streak-stats)
